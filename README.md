@@ -1,2 +1,2 @@
 # EduLearn-Nadeem
-Internship Projest
+Internship Project
